@@ -27,10 +27,10 @@ The runtime environment for the application. Options: development, production. E
 2. Copy the above variables and provide appropriate values for your environment.
 3. Save the file.
 Example .env File:
-```MONGO_DB_URL=mongodb+srv://username:password@cluster.mongodb.net/dbname```
-```HASHING_ROUNDS=10```
-```COOKIE_SECRET=your_cookie_secret_key```
-```ALLOWED_ORIGINS=http://localhost:3000,http://example.com```
+```MONGO_DB_URL=mongodb+srv://username:password@cluster.mongodb.net/dbname```<br>
+```HASHING_ROUNDS=10```<br>
+```COOKIE_SECRET=your_cookie_secret_key```<br>
+```ALLOWED_ORIGINS=http://localhost:3000,http://example.com```<br>
 ```NODE_ENV=development```
 
 Once the .env file is created, you can run the application properly.

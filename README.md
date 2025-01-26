@@ -3,23 +3,23 @@ This project requires an .env file to store sensitive configuration details. Ple
 
 ## Required Variables:
 1. MongoDB URL (MONGO_DB_URL)
-The connection string for your MongoDB database. Example:
+The connection string for your MongoDB database. Example:<br>
 ```MONGO_DB_URL=mongodb+srv://<username>:<password>@cluster0.mongodb.net/<dbname>?retryWrites=true&w=majority```
 
 2. Hashing Rounds (HASHING_ROUNDS)
-Number of hashing rounds for password encryption. Example:
+Number of hashing rounds for password encryption. Example:<br>
 ```HASHING_ROUNDS=10```
 
 3. Cookie Secret (COOKIE_SECRET)
-A secret string used to sign and verify cookies. Example:
+A secret string used to sign and verify cookies. Example:<br>
 ```COOKIE_SECRET=your_cookie_secret_key```
 
 4. Allowed Origins (ALLOWED_ORIGINS)
-A comma-separated list of origins allowed to access the server. Example:
+A comma-separated list of origins allowed to access the server. Example:<br>
 ```ALLOWED_ORIGINS=http://localhost:3000,http://example.com```
 
 5. Node Environment (NODE_ENV)
-The runtime environment for the application. Options: development, production. Example:
+The runtime environment for the application. Options: development, production. Example:<br>
 ```NODE_ENV=development```
 
 ## Steps to Create the .env File:

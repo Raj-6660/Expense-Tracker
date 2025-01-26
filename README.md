@@ -26,7 +26,7 @@ The runtime environment for the application. Options: development, production. E
 1. Create a file named .env in the root directory of the project.
 2. Copy the above variables and provide appropriate values for your environment.
 3. Save the file.
-Example .env File:
+Example .env File:<br>
 ```MONGO_DB_URL=mongodb+srv://username:password@cluster.mongodb.net/dbname```<br>
 ```HASHING_ROUNDS=10```<br>
 ```COOKIE_SECRET=your_cookie_secret_key```<br>

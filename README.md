@@ -1,5 +1,5 @@
 ## Contributors
-- [Rajarshya Singh Mahal](https://github.com/Raj-6660)
+- [Rajarshya Singh Mahal(ME)](https://github.com/Raj-6660)
 - [Pranav Pahuja](https://github.com/peecode007)
 - [Rajnath Singh](https://github.com/EPFPhmiw47mosLJR)
 

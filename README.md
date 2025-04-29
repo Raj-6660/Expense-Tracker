@@ -1,3 +1,9 @@
+## Contributors
+- [Rajarshya Singh Mahal](https://github.com/Raj-6660)
+- [Pranav Pahuja](https://github.com/peecode007)
+- [Rajnath Singh](https://github.com/EPFPhmiw47mosLJR)
+
+
 # Environment Variables Configuration
 This project requires an .env file to store sensitive configuration details. Please create a .env file in the root directory of the project and add the following environment variables:
 

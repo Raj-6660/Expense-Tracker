@@ -1,5 +1,6 @@
 ## Direct Link to the website
 [LINK](https://expense-tracker-mu-six-78.vercel.app/)
+- Use gmail: test@test.com  password: test@123 for login 
 
 
 ## Contributors
